@@ -1,13 +1,13 @@
 <h1>Looker Studio Pacing Chart</h1>
 
 <h2>What the Project Does</h2>
-<p>This project outlines the code and files needed for the Pacing Gauge to be operational as of Apr 2025.</p>
+<p>This project outlines the code and files needed for the Pacing Chart to be operational as of Apr 2025.</p>
 
 <h2>Why the Project is Useful</h2>
-<p>To check the core code and understand the dependancies. The way Pacing Gauge for Looker Studio is built.</p>
+<p>To check the core code and understand the dependancies. The way Pacing Chart for Looker Studio is built.</p>
 
 <h2>How Users Can Get Started with The Project</h2>
-    <p>It is highly recommended by the creator of the Pacing Gauge to read about Looker Studio's Community Visualisations. There, you must be able to understand the core concepts. Such as core dependancies and hosting capabilities for Community Connectors to be operational.</p>
+    <p>It is highly recommended by the creator of the Pacing Chart to read about Looker Studio's Community Visualisations. There, you must be able to understand the core concepts. Such as core dependancies and hosting capabilities for Community Connectors to be operational.</p>
 <h2>Where Users Can Get Help with Your Project</h2>
 
     1) It is recommended to, first of all, read and go through Looker Studio's Codelab
